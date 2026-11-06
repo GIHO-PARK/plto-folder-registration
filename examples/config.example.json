@@ -1,0 +1,10 @@
+{
+  "watch_root": "C:/PLTO-local/products",
+  "state_dir": "C:/PLTO-local/state",
+  "settle_seconds": 120,
+  "calculator_path": "C:/PLTO-local/sourcing-calculator.xlsx",
+  "calculator_sheet": "02.마진계산기",
+  "customer_service_phone": "본인의 상담번호로 변경",
+  "target_market_accounts": [],
+  "notes": "계정 이름·계산기 열·바코드 입력 방식·재고와 배송 템플릿을 본인 환경에 맞게 지정. 비밀번호·토큰은 저장하지 않음."
+}

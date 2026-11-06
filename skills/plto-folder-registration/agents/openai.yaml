@@ -1,0 +1,4 @@
+interface:
+  display_name: "플토 폴더 자동등록"
+  short_description: "상품 자료로 이미지 호스팅·플토 등록·전송을 처리하고 쿠팡 오류를 확인"
+  default_prompt: "$plto-folder-registration 로 지정 폴더의 준비된 새 상품을 확인하고 등록·전송해줘."

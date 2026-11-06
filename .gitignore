@@ -1,0 +1,26 @@
+# Local settings, credentials and execution records
+.env
+.env.*
+!.env.example
+*.local.json
+config.json
+state/
+state.json
+run.lock
+receipts/
+*receipt*.json
+logs/
+*.log
+credentials*
+cookies*
+storage-state*
+# Product inputs and generated uploads stay local
+products/
+uploads/
+*.xlsx
+*.xls
+*.csv
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
